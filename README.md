@@ -1,1 +1,1 @@
-# cs-lesson-content
+# bilisim-ders-icerikleri
